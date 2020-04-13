@@ -1,1 +1,1 @@
-# AI-Intelligebt-timetable
+# AI-Intelligent-timetable
